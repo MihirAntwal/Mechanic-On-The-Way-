@@ -41,4 +41,10 @@ There is no reliable existing system that provides emergency mechanic services t
 - The website is first ever of its kind
 - Instant approvals of our services. 
 
+## USE CASE diagram
 
+![USECASE](https://shourya-gupta.github.io/Mechanic-On-The-Way/USECASE.png)
+
+
+## 🔗 Connect with me on LinkedIn
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-gupta-38a7791b6/)
